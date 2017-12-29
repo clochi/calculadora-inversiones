@@ -1,0 +1,20 @@
+{
+  "name": "calculadora-de-inversiones",
+  "description": "Calcula el interés ganado ingresando el monto a invertir y el porcentaje de TNA",
+  "version": "0.0.18",
+  "dependencies": {
+    "styled-components": "2.2.3",
+    "react-dom": "16.0.0",
+    "react": "16.0.0",
+    "chart": "0.1.2"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
